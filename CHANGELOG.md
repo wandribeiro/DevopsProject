@@ -8,6 +8,6 @@ Registro das evoluções do projeto
 
 - Configurado Provider AWS
 - Construído main.tf com os seguintes recursos:
-    - bucket s3
+
 
 
