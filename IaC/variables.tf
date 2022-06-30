@@ -1,0 +1,3 @@
+variable "VpcId" {
+    default = null
+}
