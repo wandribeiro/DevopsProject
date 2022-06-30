@@ -7,7 +7,13 @@ Registro das evoluções do projeto
 #### **Primeiros Passos**
 
 - Configurado Provider AWS
-- Construído main.tf com os seguintes recursos:
+- Adicionado diagrama
+
+> #### **[2022-06-29]**
+
+- Aplicado conceitos de data, locals e output do terraform
+- Criado security group na AWS com uma única porta e *harded code*
+- Destruído recursos na aws.
 
 
 
